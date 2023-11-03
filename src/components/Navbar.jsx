@@ -166,7 +166,7 @@ export default function Navbar({showMyMenu, onShowMyMenu, onLogOut}) {
             </Link>
             <Link to={ROUTER.PATH.HOT_ARTICLES}>
               <Text large_regular onClick={handleTransaction}>
-                CarrortThunder
+                아 배고프다
               </Text>
             </Link>
           </LogoContainer>
